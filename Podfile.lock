@@ -1,0 +1,46 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AlamofireObjectMapper (5.2.1):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - ObjectMapper (3.5.3)
+  - PromiseKit (6.13.1):
+    - PromiseKit/CorePromise (= 6.13.1)
+    - PromiseKit/Foundation (= 6.13.1)
+    - PromiseKit/UIKit (= 6.13.1)
+  - PromiseKit/CorePromise (6.13.1)
+  - PromiseKit/Foundation (6.13.1):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.13.1):
+    - PromiseKit/CorePromise
+  - SVProgressHUD (2.2.5)
+  - SwiftyBeaver (1.9.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.9.1)
+  - AlamofireObjectMapper (~> 5.2)
+  - ObjectMapper (~> 3.4)
+  - PromiseKit (~> 6.8)
+  - SVProgressHUD
+  - SwiftyBeaver
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireObjectMapper
+    - ObjectMapper
+    - PromiseKit
+    - SVProgressHUD
+    - SwiftyBeaver
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireObjectMapper: 1989f690e982b71921b9253f53a4f33a9bc00d88
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+  PromiseKit: 28fda91c973cc377875d8c0ea4f973013c05b6db
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftyBeaver: 2e8acd6fc90c6d0a27055867a290794926d57c02
+
+PODFILE CHECKSUM: c141874edec1736a7c447668fd59d9b2bcad815e
+
+COCOAPODS: 1.10.0

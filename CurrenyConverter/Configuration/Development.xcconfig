@@ -1,0 +1,17 @@
+//
+//  Development.xcconfig
+//  CurrenyConverter
+//
+//  Created by Waqas Haider Sheikh on 17/01/2021.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+PROTOCOL = http
+HOST = api.currencylayer.com
+SCHEME = Development
+
+// currency layer access key
+ACCESS_KEY = 450d3a97df2551166edc5456af957fe9
+
